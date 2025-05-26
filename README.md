@@ -15,5 +15,4 @@ I – Interface Segregation Principle (ISP)
 This states that the larger interfaces split into smaller ones. Because the implementation classes use only the methods that are required. We should not farce the client to use the methods that they do not want to use.
 
 D – Dependency Inversion Principle (DIP)
-High-level modules should not depend on low-level modules. Both should depend on abstractions.
-
+States that we must use abastraction(abstract classes and interfaces) instead of concrete implementations. High level modules should not depend on the low-level module but both should depened on the abstraction.
