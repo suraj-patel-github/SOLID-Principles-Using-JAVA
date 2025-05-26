@@ -1,6 +1,7 @@
 # IntelliJ IDEA
 *.iml
 *.xml
+.gitignore
 
 # IntelliJ specific files (if you want fine-grained control)
 # Uncomment these only if you want to keep some of them
@@ -8,12 +9,12 @@
 # .idea/codeStyles/
 
 # Misc IDE files
-/shelf/
-/workspace.xml
-/misc.xml
-/modules.xml
-/vcs.xml
-/mavenHomeManager.xml
+shelf/
+workspace.xml
+misc.xml
+modules.xml
+vcs.xml
+mavenHomeManager.xml
 
 # Java build output
 /out/
