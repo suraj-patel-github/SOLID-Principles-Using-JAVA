@@ -9,7 +9,7 @@ O – Open/Closed Principle (OCP)
 Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
 
 L – Liskov Substitution Principle (LSP)
-Subtypes must be substitutable for their base types without altering the correctness of the program.
+Applis to inheritance in such a way that the derived class must be completely substitutable for their base classes. In other words, if class A is a subtype of class B, then we should be able to replace B with A without interupting the behaviour of the the program.
 
 I – Interface Segregation Principle (ISP)
 Clients should not be forced to depend on interfaces they do not use.
