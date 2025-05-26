@@ -12,7 +12,7 @@ L – Liskov Substitution Principle (LSP)
 Applis to inheritance in such a way that the derived class must be completely substitutable for their base classes. In other words, if class A is a subtype of class B, then we should be able to replace B with A without interupting the behaviour of the the program.
 
 I – Interface Segregation Principle (ISP)
-Clients should not be forced to depend on interfaces they do not use.
+This states that the larger interfaces split into smaller ones. Because the implementation classes use only the methods that are required. We should not farce the client to use the methods that they do not want to use.
 
 D – Dependency Inversion Principle (DIP)
 High-level modules should not depend on low-level modules. Both should depend on abstractions.
