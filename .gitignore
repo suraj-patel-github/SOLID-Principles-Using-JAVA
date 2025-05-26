@@ -1,9 +1,20 @@
-# Default ignored files
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# IntelliJ specific files (if you want fine-grained control)
+# Uncomment these only if you want to keep some of them
+# .idea/runConfigurations/
+# .idea/codeStyles/
+
+# Misc IDE files
 /shelf/
-# Environment-dependent path to Maven home directory
+/workspace.xml
+/misc.xml
+/modules.xml
+/vcs.xml
 /mavenHomeManager.xml
-workspace.xml
-misc.xml
-modules.xml
-SOLID-Principles-Using-JAVA.iml
-vcs.xml
+
+# Java build output
+/out/
+/target/
