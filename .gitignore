@@ -1,6 +1,6 @@
 # IntelliJ IDEA
-.idea/
 *.iml
+*.xml
 
 # IntelliJ specific files (if you want fine-grained control)
 # Uncomment these only if you want to keep some of them
