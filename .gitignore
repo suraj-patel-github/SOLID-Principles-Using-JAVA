@@ -2,4 +2,8 @@
 /shelf/
 # Environment-dependent path to Maven home directory
 /mavenHomeManager.xml
-.idea
+workspace.xml
+misc.xml
+modules.xml
+SOLID-Principles-Using-JAVA.iml
+vcs.xml
